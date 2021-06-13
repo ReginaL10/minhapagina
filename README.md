@@ -25,7 +25,10 @@
 </li>
 <li>
  <a li class"nav-link"href="a" >Consulte-nos</a>
- </li "class"nav item"> 
+ </li "class"nav item">
+ <li> 
+  email joezeraline@gmail.com
+ 
 </li>
 </ul class "navbar item">
 </nav>
